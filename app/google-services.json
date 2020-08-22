@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "484381239204",
+    "firebase_url": "https://galeriafotos-c7aa4.firebaseio.com",
+    "project_id": "galeriafotos-c7aa4",
+    "storage_bucket": "galeriafotos-c7aa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484381239204:android:3de159c3d58f152d788331",
+        "android_client_info": {
+          "package_name": "com.example.galeriafotos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484381239204-8au318hgbr0r11ks6mvac31rb9r1scgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.galeriafotos",
+            "certificate_hash": "70879049d6ea7e89034084c68d698b692bde0cb9"
+          }
+        },
+        {
+          "client_id": "484381239204-83thqgbp73s2e80u2ttlejqerrmlcb3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrM7glvv_n45kk2HxTCgTEOuW2Zi19TTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484381239204-83thqgbp73s2e80u2ttlejqerrmlcb3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
